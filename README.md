@@ -7,6 +7,7 @@
 4. [GitCli](https://git-scm.com/)
 
 Create a New Environment for Project
+You can use python version which you want
 
 ```
 python3 -m venv booston_project
