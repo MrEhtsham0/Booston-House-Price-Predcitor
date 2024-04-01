@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 .venv
-booston_project/
+booston_project/ 
 
 # Distribution / packaging
 .Python
